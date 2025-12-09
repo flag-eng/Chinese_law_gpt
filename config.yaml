@@ -1,4 +1,4 @@
-HW_API_KEY: "NEEL2tZmu_s_-qJzUWKTomd-N1lXEstsD0wF8hRM0vIir6tC6pC2mHlO9gTFOND7CLPEUY3Wgi3_Puno3irOfg"
+HW_API_KEY: "XXXXXXXXXX"
 
 DEEPSEEK_URL: "https://api.modelarts-maas.com/v2/chat/completions"
 RERANK_URL: "https://api.modelarts-maas.com/v1/rerank"
