@@ -13,3 +13,10 @@
 启动方法：
 1. 运行python build_db.py建立数据库
 2. 运行python app.py启动后端服务
+
+前端UI：
+<img width="866" height="471" alt="image" src="https://github.com/user-attachments/assets/93214890-f034-42a4-aa45-db9c994e2cf1" />
+
+提问界面：
+<img width="865" height="1092" alt="image" src="https://github.com/user-attachments/assets/02ecdbcf-d52e-48ec-b584-044d94f5cab6" />
+
