@@ -1,0 +1,18 @@
+# Web框架和服务器
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# 文本嵌入和向量处理
+sentence-transformers>=2.2.0
+torch>=2.0.0  # 支持GPU加速（如果使用GPU，会自动使用；CPU也可用）
+faiss-cpu>=1.7.4  # 如果有GPU，可以使用 faiss-gpu 替代
+numpy>=1.24.0
+
+# HTTP请求和配置解析
+requests>=2.31.0
+pyyaml>=6.0
+
+# 多线程处理（Python标准库，无需安装）
+# concurrent.futures 是 Python 3.2+ 标准库
+
